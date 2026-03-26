@@ -175,6 +175,9 @@ Auto-scrolling carousel with left/right navigation buttons, responsive to conten
 - Admin dashboard
 - Analytics and reporting
 
+## VPS SETTING
+- CONTABO
+
 ## Browser Support
 
 - Chrome (latest)
